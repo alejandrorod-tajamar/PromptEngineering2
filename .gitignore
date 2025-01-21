@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!06_best_practice-prompt-engineering.ipynb
+!requirements.txt
+
+# Ensure .gitignore itself is not ignored
+!.gitignore
